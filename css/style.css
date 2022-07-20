@@ -173,6 +173,9 @@ footer hr{
     font-size: 14px;
 }   
 /* footer end    */
+
+
+/* mobile responsive */
    
 @media screen and (max-width: 600px){
 
@@ -316,17 +319,8 @@ footer hr{
     font-size: 8px;
 } 
 
-
-
-
-
-
-
-
-
-
-
 }
+/* mobile responsive end */
     
 
    
